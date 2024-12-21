@@ -1,0 +1,2 @@
+# att-manager
+manage attendance
